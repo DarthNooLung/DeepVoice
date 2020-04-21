@@ -5,9 +5,7 @@
 
 3. MP3 Convert WAV 처리
 
-4. 음성만 추출 처리
+4. 음성 to 텍스트 처리
     https://wdprogrammer.tistory.com/38
 
 5. 음성에서 노이즈 제거 처리
-
-6. 음성 to 텍스트 처리
