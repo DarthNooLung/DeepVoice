@@ -1,10 +1,12 @@
 1. 유튜브에서 영상 & 음성 추출하는 기능 처리
+    https://m.blog.naver.com/dsz08082/221753467977
 
 2. 영상에서 음성만 추출하여 저장 처리
 
 3. MP3 Convert WAV 처리
 
 4. 음성만 추출 처리
+    https://wdprogrammer.tistory.com/38
 
 5. 음성에서 노이즈 제거 처리
 
