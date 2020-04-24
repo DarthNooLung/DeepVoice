@@ -1,3 +1,5 @@
+최종 목표 : https://wikidocs.net/43434
+
 1. 유튜브에서 영상 & 음성 추출하는 기능 처리
     https://m.blog.naver.com/dsz08082/221753467977
 
@@ -5,7 +7,14 @@
 
 3. MP3 Convert WAV 처리
 
-4. 음성 to 텍스트 처리
-    https://wdprogrammer.tistory.com/38
+4. Wav 문장별로 자르기 처리
 
 5. 음성에서 노이즈 제거 처리
+
+6. 음성을 더 또력하게 처리
+
+7. 음성 to 텍스트 처리
+    https://wdprogrammer.tistory.com/38 - 영어만 됨
+    https://coding-yoon.tistory.com/26 - 한글 됨
+    https://statkclee.github.io/nlp2/nlp-audio-transcribe.html - 전반적인 설명
+    Kaldi 한국어
