@@ -8,6 +8,7 @@
 3. MP3 Convert WAV 처리
 
 4. Wav 문장별로 자르기 처리
+    https://wdprogrammer.tistory.com/43
 
 5. 음성에서 노이즈 제거 처리
 
