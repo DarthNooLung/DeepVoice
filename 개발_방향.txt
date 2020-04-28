@@ -1,22 +1,21 @@
 최종 목표 : https://wikidocs.net/43434
+https://blog.naver.com/gaechuni/221828585307
 
 1. 유튜브에서 영상 & 음성 추출하는 기능 처리
     https://m.blog.naver.com/dsz08082/221753467977
 
-2. 영상에서 음성만 추출하여 저장 처리
+2. MP3 Convert WAV 처리
 
-3. MP3 Convert WAV 처리
+3. 음성에서 노이즈 제거 처리
 
-4. Wav 문장별로 자르기 처리
+4.음성을 더 또렷하게 처리
+    https://engineering.linecorp.com/ko/blog/voice-waveform-arbitrary-signal-to-noise-ratio-python/
+    
+5. Wav 문장별로 자르기 처리
     https://wdprogrammer.tistory.com/43
     https://banana-media-lab.tistory.com/entry/Librosa-python-library%EB%A1%9C-%EC%9D%8C%EC%84%B1%ED%8C%8C%EC%9D%BC-%EB%B6%84%EC%84%9D%ED%95%98%EA%B8%B0
 
-5. 음성에서 노이즈 제거 처리
-
-6. 음성을 더 또렷하게 처리
-    https://engineering.linecorp.com/ko/blog/voice-waveform-arbitrary-signal-to-noise-ratio-python/
-
-7. 음성 to 텍스트 처리
+6. 음성 to 텍스트 처리
     https://wdprogrammer.tistory.com/38 - 영어만 됨
     https://coding-yoon.tistory.com/26 - 한글 됨
     https://statkclee.github.io/nlp2/nlp-audio-transcribe.html - 전반적인 설명
@@ -25,3 +24,5 @@
     
 음성관련 게시글
     https://kaen2891.tistory.com/32
+    https://banana-media-lab.tistory.com/entry/Librosa-python-library%EB%A1%9C-%EC%9D%8C%EC%84%B1%ED%8C%8C%EC%9D%BC-%EB%B6%84%EC%84%9D%ED%95%98%EA%B8%B0
+    https://engineering.linecorp.com/ko/blog/voice-waveform-arbitrary-signal-to-noise-ratio-python/
