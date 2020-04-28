@@ -13,10 +13,15 @@
 
 5. 음성에서 노이즈 제거 처리
 
-6. 음성을 더 또력하게 처리
+6. 음성을 더 또렷하게 처리
+    https://engineering.linecorp.com/ko/blog/voice-waveform-arbitrary-signal-to-noise-ratio-python/
 
 7. 음성 to 텍스트 처리
     https://wdprogrammer.tistory.com/38 - 영어만 됨
     https://coding-yoon.tistory.com/26 - 한글 됨
     https://statkclee.github.io/nlp2/nlp-audio-transcribe.html - 전반적인 설명
     Kaldi 한국어
+    
+    
+음성관련 게시글
+    https://kaen2891.tistory.com/32
